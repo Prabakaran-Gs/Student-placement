@@ -1,6 +1,6 @@
 # Student-placement
-instagram - 
-linked in - 
+instagram - https://instagram.com/iam_mr_v4?igshid=ZDdkNTZiNTM=
+linked in - https://www.linkedin.com/in/prabakaran-gs-b98bb5267
 
 ALGORITHM :
   1.Read the Data from file name "student.xlsx" (if you are using csv use read_csv instead of read_xlsx)
